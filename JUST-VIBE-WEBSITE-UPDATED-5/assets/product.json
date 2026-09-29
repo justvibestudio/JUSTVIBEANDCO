@@ -1,0 +1,29 @@
+{
+  "id": "jv-lemon-niacinamide-25ml",
+  "name": "Daily Serum",
+  "brand": "JUST VIBE & CO.",
+  "variant": "Lemon 10% + Niacinamide 1%",
+  "size": "25 ML / 0.85 FL. OZ.",
+  "priceINR": 699,
+  "compareAtINR": 899,
+  "currency": "INR",
+  "images": [
+    "assets/images/product-hero.jpg",
+    "assets/images/product-packshot.jpg",
+    "assets/images/product-lifestyle.jpg",
+    "assets/images/benefits.jpg"
+  ],
+  "benefits": [
+    "Instant Brightening",
+    "Deep Hydration",
+    "Antioxidant Protection",
+    "Calming & Smoothing"
+  ],
+  "highlights": [
+    "Clean",
+    "Minimal",
+    "Effective",
+    "Cruelty-free*"
+  ],
+  "note": "*Only display claims that match your actual formulation/certifications before publishing."
+}
